@@ -1,7 +1,7 @@
 ## Project Title: Shield Insurance Analysis
 [Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTIzNTAwMTYtMmVkZS00YzUwLTllYzYtYjE3Y2M2OGVjZGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection)
 
-[Link to Presentation](https://www.youtube.com/embed/eehYvWwKC20?si=9iP8-fTgfdOy_vRa)
+[Link to Presentation](https://www.youtube.com/watch?v=eehYvWwKC20)
 
 ## Project Short Info:
 
